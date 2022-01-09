@@ -6,6 +6,6 @@ input{
 }
 
 h2,h3{
-    color: blue;
-    background-color: darkblue;
+    color: rgb(207, 125, 255);
+    background-color: rgb(70, 0, 80);
 }
