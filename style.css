@@ -1,0 +1,11 @@
+input{
+    margin: 10px;
+}
+#ordenar{
+    /*display: none;*/
+}
+
+h2,h3{
+    color: blue;
+    background-color: darkblue;
+}
